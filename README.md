@@ -6,7 +6,7 @@ Complex analysis of vegetation data from 106 releves (field surveys) documenting
 ## Problem
 Identify patterns in species distribution, rare species conservation needs, and vegetation changes across altitude gradients.
 
-## Technologies Used
+## Instruments Used
 - **SQL**
 - **Python**: Pandas
 - **Power BI**: Interactive dashboards
