@@ -22,7 +22,7 @@ Identify patterns in species distribution, rare species conservation needs, and 
     
     README.md
     
-    SQL/
+    sql/
     database_schema.sql
     species_diversity_analysis.sql
     altitude_zone_analysis.sql
