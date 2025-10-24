@@ -6,13 +6,13 @@ Complex analysis of vegetation data from 106 releves (field surveys) documenting
 ## Problem
 Identify patterns in species distribution, rare species conservation needs, and vegetation changes across altitude gradients.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **SQL**
 - **Python**: Pandas
 - **Power BI**: Interactive dashboards
 - **ArcGIS**: Spatial analysis
 
-## 📈 Key Insights
+## Key Insights
 - Identified 4 distinct altitude zones with unique vegetation
 - Discovered 47 rare species occurring in <5% of surveys
 - Found correlation between altitude and species diversity
