@@ -21,6 +21,9 @@ Identify patterns in species distribution, rare species conservation needs, and 
     geobot-data-analysis/
     
     README.md
+
+    Общий вид дашборда.jpeg
+    Получение информации.jpeg
     
     sql/
     database_schema.sql
@@ -34,5 +37,5 @@ Identify patterns in species distribution, rare species conservation needs, and 
     
     PowerBi/
     dashboard_description.md
-    screenshots/
-    species_analysis.png
+  
+ 
