@@ -18,23 +18,21 @@ Identify patterns in species distribution, rare species conservation needs, and 
 - Found correlation between altitude and species diversity
 
 ## 📁 Project Structure
-geobot-data-analysis/
-├── README.md
-├── sql/
-│   ├── database_schema.sql
-│   ├── species_diversity_analysis.sql
-│   ├── altitude_zone_analysis.sql
-│   └── rare_species_analysis.sql
-├── python/
-│   ├── data_processing.py
-│   ├── analysis.py
-│   ├── visualization.py
-│   └── requirements.txt
-├── powerbi/
-│   ├── dashboard_description.md
-│   └── screenshots/
-│       ├── dashboard_overview.png
-│       └── species_analysis.png
-└── docs/
-    ├── project_overview.md
-    └── data_dictionary.md
+    geobot-data-analysis/
+    
+    README.md
+    
+    SQL/
+    database_schema.sql
+    species_diversity_analysis.sql
+    altitude_zone_analysis.sql
+    rare_species_analysis.sql
+    
+    Python/
+    Short_to_Long.py
+    Statistics.py
+    
+    PowerBi/
+    dashboard_description.md
+    screenshots/
+    species_analysis.png
